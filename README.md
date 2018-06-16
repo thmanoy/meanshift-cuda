@@ -1,4 +1,1 @@
-# hello-friend
-hmmmmmmm
-# So yeah
-That's enough
+# CUDA parallel implementation of the meanshift algorithm
